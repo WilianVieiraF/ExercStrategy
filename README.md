@@ -37,8 +37,3 @@ O projeto é Maven (Java 17) e abre direto no Eclipse/IntelliJ.
 4. É possível **trocar a regra em tempo de execução** sem recompilar? Por quê?
 5. Como testar apenas a regra de desconto do cliente VIP, de forma isolada?
 
-## Tarefa
-
-Rastreie os problemas de design deste código e proponha uma refatoração com o
-padrão **Strategy**, deixando claros os papéis: **interface de estratégia**,
-**estratégias concretas** e **contexto**.
